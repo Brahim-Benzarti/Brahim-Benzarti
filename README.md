@@ -6,6 +6,8 @@
 <div align='center'>
 👨‍💻 Tech enthusiast, 📈 data-driven problem solver, and 🚀 aspiring astronaut.<br><br>🧐 With a background in Business, <br><br>I've honed my, <br><br>👨‍💻 Technical skills: Python, Java, SQL, C++, HTML, CSS, JavaScript, React.js, Node.js, Git<br><br>📈 Data skills: Data analysis, data visualization, machine learning, deep learning, statistical modeling, natural language processing<br><br>👥 Soft skills: Communication, teamwork, leadership, time management, problem-solving, adaptability, creativity<br><br>💼 Business skills: Project management, marketing, sales, customer service, financial analysis, entrepreneurship<br><br>, and love using them to tackle challenging projects.<br><br>🤖 Whether it's building a complex algorithm or debugging a tricky piece of code, I thrive on the rush of overcoming obstacles and delivering results.<br><br>🌍 When I'm not glued to my keyboard, you can find me exploring the great outdoors, perfecting my cooking skills, or dreaming about my next adventure beyond Earth's atmosphere.<br><br>👨‍🚀 So let's blast off together and create some out-of-this-world projects!
 </div>
+---
+[![](https://visitcount.itsvg.in/api?id=brahim-benzarti&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brahim-benzarti-227069152/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11033072) 
@@ -23,6 +25,3 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=brahim-benzarti&icon=0&color=6)](https://visitcount.itsvg.in)
