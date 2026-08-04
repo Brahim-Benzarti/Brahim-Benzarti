@@ -1,88 +1,54 @@
-<h1 align="center">💫 About Me</h1>
+<h1 align="center">Brahim Benzarti</h1>
 
 <p align="center">
-  👨‍💻 <b>Tech Enthusiast</b> • 📊 <b>Data-Driven Problem Solver</b> • 🚀 <b>Aspiring Astronaut</b>
+  <b>Senior Full-Stack Engineer · Commerce, SaaS & AI Systems</b><br/>
+  Esch-sur-Alzette, Luxembourg
 </p>
 
 <p align="center">
-  I’m passionate about transforming complex problems into elegant, scalable solutions — whether through code, data, or creative innovation.<br>
-  With a background in <b>Business</b>, I combine analytical precision with entrepreneurial vision, bridging strategy and technology to build things that matter.
+  <a href="https://brahim-benzarti.com">brahim-benzarti.com</a> ·
+  <a href="https://www.linkedin.com/in/brahim-benzarti-227069152/">LinkedIn</a> ·
+  <a href="https://brahim-benzarti.com/cv">CV</a> ·
+  <a href="https://brahim-benzarti.com/llms.txt">llms.txt</a>
 </p>
 
----
+```text
+// manifest
+experience ......... 6+ years
+current ............ Sole full-stack engineer @ Scryn — AI-native deal sourcing
+scale .............. 50M+ company records searchable · 200M in pipeline
+before ............. Shopify commerce for international brands (Docler Holding)
+pillar ............. Shopify — storefronts, apps, Checkout Extensibility, subscriptions
+```
 
-<h3 align="center">⚙️ Technical Toolbox</h3>
+I take products from zero to production — Shopify storefronts, subscription
+platforms, and AI-native SaaS. At [Scryn](https://scryn.co) I own the full
+engineering surface solo: a complete .NET/Angular → NestJS/React rework,
+natural-language search over an Elasticsearch index of 50M+ companies, agentic
+AI chat on the OpenAI SDK with live token streaming, an authenticated MCP
+server with interactive tools, Stripe billing, QA, infra, and CI/CD.
 
-<p align="center">
-  💻 <b>Programming & Development:</b> Python, Java, C++, JavaScript, React.js, Node.js, HTML, CSS, SQL, Git<br>
-  📊 <b>Data Science & AI:</b> Machine Learning, Deep Learning, NLP, Statistical Modeling, Data Visualization<br>
-  🧠 <b>Cloud & DevOps:</b> AWS, Google Cloud, Azure, Docker, Firebase, Vercel, Heroku<br>
-  📈 <b>Business & Leadership:</b> Project Management, Financial Analysis, Marketing Strategy, Entrepreneurship
-</p>
+Before that: rebuilt TEQBALL's multi-site e-commerce estate off Elastic Path,
+migrated The Million Roses to Shopify Checkout Extensibility, moved 500,000
+active subscribers from ReCharge to Shopify native subscriptions, and took
+storefront Lighthouse scores from the teens to 90+.
 
----
+### Things I've built
 
-<h3 align="center">🌍 Beyond the Code</h3>
+| | |
+|---|---|
+| [**shopify_store-mcp**](https://github.com/brahim-benzarti/shopify_store-mcp) | Open-source MCP server — AI assistants managing live Shopify stores (Admin + Storefront APIs) |
+| [**LinguaFlow**](https://www.lingua-flow.org) | My own product: AI-powered translation for Shopify merchants |
+| [**Portfolio pipeline**](https://brahim-benzarti.com) | Directus CMS → content bundle → Astro site + 5 tailored CV PDFs, one deterministic build |
 
-<p align="center">
-  I'm endlessly curious about how technology shapes the future — from intelligent systems to interplanetary exploration.<br>
-  When I’m not building or analyzing, you’ll find me:<br>
-  🚴 Exploring the outdoors • 🍳 Experimenting in the kitchen • 🌌 Dreaming about life beyond Earth’s orbit
-</p>
+### Stack
 
----
-
-<h3 align="center">🤖 My Philosophy</h3>
-
-<p align="center">
-  I believe in <b>learning relentlessly, collaborating fearlessly,</b> and <b>building with purpose</b>.<br>
-  Whether it’s developing a machine learning pipeline, designing an API, or debugging a stubborn bug at 2 AM — I thrive on pushing boundaries and creating meaningful impact.<br><br>
-  <b>Let’s connect and build something out of this world.</b> 🚀
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=brahim-benzarti&icon=0&color=6" alt="Profile Visit Count" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🌐 Socials</h2>
+**Backend** — Node.js · NestJS · TypeScript · PostgreSQL/Prisma · Elasticsearch · BullMQ
+**Frontend** — React · Next.js · Vite · Tailwind · React Native
+**AI** — OpenAI Agents SDK · MCP · natural-language search · agentic workflows
+**Commerce** — Shopify Plus · Checkout Extensibility · Stripe · Chargebee · BigCommerce
+**Cloud** — Azure · AWS · GCP · Docker · CI/CD
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brahim-benzarti-227069152/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/11033072">
-    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-</p>
-
----
-
-<h1 align="center">📊 GitHub Stats</h1>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brahim-benzarti&theme=dark&hide_border=false" alt="GitHub Streak" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=brahim-benzarti&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahim-benzarti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brahim-benzarti&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-<h3 align="center">✍️ Random Dev Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Dev Quote" />
+  <i>BSc Business Administration (Major: IT) — I build systems that align with the business model,<br/>especially commerce, subscriptions, and investment platforms.</i>
 </p>
