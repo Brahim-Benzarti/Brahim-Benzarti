@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://brahim-benzarti.com">brahim-benzarti.com</a> ·
-  <a href="https://www.linkedin.com/in/brahim-benzarti-227069152/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/brahim-benzarti/">LinkedIn</a> ·
   <a href="https://brahim-benzarti.com/cv">CV</a> ·
   <a href="https://brahim-benzarti.com/llms.txt">llms.txt</a>
 </p>
